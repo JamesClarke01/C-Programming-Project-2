@@ -2,7 +2,7 @@
 **PROJECT COMPLETED BY JAMES CLARKE FOR TECHNOLOGICAL UNIVERSITY DUBLIN**  
 **DATE COMPLETED: 2021-03-07**
 
-**Module:** Programming CMPU1025: 2020-21  
+**Module:** Programming CMPU1025: 2020-21, TU Dublin  
 **Examiner Score:** 100%
 
 **Description:** Text based PIN System that allows encryption of PIN  
