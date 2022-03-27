@@ -22,4 +22,4 @@
 ---
 ![Screenshot 5](https://github.com/JamesClarke01/C-Programming-Project-2/blob/master/Screenshots/5.png?raw=true)
 ---
-![Screenshot 6](https://github.com/JamesClarke01/C-Programming-Project-2/blob/master/Screenshots/6.png?raw=true)
+![Screenshot 6](https://github.com/JamesClarke01/C-Programming-Project-2/blob/master/Screenshots/6.png?raw=true) 
